@@ -24,7 +24,7 @@ let pencegahan = [
     title: "Tetap di Rumah",
     description:
       "Dengan tidak keluar rumah, maka akan meminimalisir untuk terjangkit virus corona.",
-    image: "assets/images/wash-hand.jpg",
+    image: "assets/images/work-from-home.jpg",
     alt: "work-from-home",
   },
 ];
